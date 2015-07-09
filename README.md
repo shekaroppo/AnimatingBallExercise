@@ -1,3 +1,3 @@
 Sample
 
-![Screenshot](/screenshots/anim.mp4)
+![Screenshot](/screenshots/anim.gif)
